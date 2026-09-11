@@ -23,6 +23,7 @@ UAT testing, test case design, defect reporting, and release validation.
 - Bug Reporting
 - Jira
 - Postman
+- API Automation
 
 ## 🚀 Currently Learning
 
@@ -30,7 +31,6 @@ UAT testing, test case design, defect reporting, and release validation.
 - TypeScript
 - SQL
 - Playwright
-- API Automation
 - Git & GitHub
 - CI/CD
 
